@@ -1,0 +1,7 @@
+{
+  "name": "ionic-appaut-ng-demo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
